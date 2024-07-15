@@ -1,1 +1,1 @@
-The nodebook will extract modifiers from the excel sheet and rewrite the mod folder multiplying as needed. Some missing modifiers were included manually, others were intentionally removed as to not be altered. 
+This was crated to mod Europa Universalis 4 Anbennar with increased modifiers. The nodebook will extract modifiers from the excel sheet and rewrite the mod folder multiplying as needed. Some missing modifiers were included manually, others were intentionally removed as to not be altered. 
